@@ -341,8 +341,9 @@ table {
     justify-content: space-between;
     color: #FFFFFF;
 
-    /* position: absolute;
-    bottom: 0; */
+    /* position: fixed;
+    bottom: 0; 
+    left: 0;*/
 }
 
 .rodape__icones {
